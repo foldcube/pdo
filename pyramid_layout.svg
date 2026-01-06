@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="194.32" height="266.18" viewBox="-7.21 -10.00 194.32 266.18">
+  <g id="layout">
+    <polygon points="177.11,172.15 89.95,165.70 124.02,246.18" fill="white" stroke="black" stroke-width="0.5"/>
+    <polygon points="135.50,91.10 89.95,165.70 177.11,172.15" fill="white" stroke="black" stroke-width="0.5"/>
+    <polygon points="44.40,91.10 89.95,165.70 135.50,91.10" fill="white" stroke="black" stroke-width="0.5"/>
+    <polygon points="2.79,172.15 89.95,165.70 44.40,91.10" fill="white" stroke="black" stroke-width="0.5"/>
+    <polygon points="135.50,0.00 44.40,91.10 135.50,91.10" fill="white" stroke="black" stroke-width="0.5"/>
+    <polygon points="135.50,0.00 44.40,0.00 44.40,91.10" fill="white" stroke="black" stroke-width="0.5"/>
+  </g>
+</svg>
